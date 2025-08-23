@@ -50,7 +50,7 @@ For this analysis, clustering was primarily performed using **Annual Income** an
 
 ---
 
-## 📈 Model Outputs
+## Model Outputs
 - **Optimal number of clusters: 5**  
 - Identified customer groups include:  
   - **Cluster 1**: Low income, low spending  
@@ -73,6 +73,7 @@ Here are the main plots used in the analysis:
 
 
 And here is the final **Scatter Plot of Clusters**:
+
  <img width="893" height="687" alt="image" src="https://github.com/user-attachments/assets/36239f0c-571a-46c0-85f5-caccf620f190" />
 
 ---
@@ -80,7 +81,9 @@ And here is the final **Scatter Plot of Clusters**:
 ## Conclusion
 
   -Customer segmentation was successfully achieved using K-Means clustering.
+  
   -The analysis revealed 5 distinct customer groups with varying income and spending behaviors.
+  
   -These insights can be used to design targeted marketing strategies (e.g., special offers for high income–low spending group).
 
 ---
